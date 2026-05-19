@@ -1,0 +1,1 @@
+print("Welcome to Yarl Institude of Technology")
