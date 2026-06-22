@@ -1,0 +1,1 @@
+def calcInterest (amount,period):
